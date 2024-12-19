@@ -21,7 +21,7 @@ function App(): JSX.Element {
           <AddressBar />
           <TopCategories />
         </View>
-        {/* <SpotLight /> */}
+        {/* <SpotLight       /> */}
       </ScrollView>
     </>
   );
